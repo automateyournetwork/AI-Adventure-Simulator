@@ -1,5 +1,5 @@
-# Spooky
-AI Halloween Game
+# AI Adventure Simulator
+A choose your own adventure / Myst-style prompt driven AI Adventure Game
 
 ## Make a venv 
 
